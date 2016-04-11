@@ -28,8 +28,8 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com:ming-soft/ms-basic.git</connection>
-		<developerConnection>scm:git:git://github.com:ming-soft/ms-basic.git</developerConnection>
+		<connection>scm:git:git://github.com/ming-soft/ms-basic.git</connection>
+		<developerConnection>scm:git:git://github.com/ming-soft/ms-basic.git</developerConnection>
 		<url>https://github.com/ming-soft/ms-basic</url>
 	</scm>
 	<distributionManagement>
