@@ -7,7 +7,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.mingsoft</groupId>
 	<artifactId>ms-basic</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<packaging>war</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>ms-basic tools Library</description>
@@ -31,7 +31,7 @@
 		<connection>scm:git:https://github.com/ming-soft/ms-basic.git</connection>
 		<developerConnection>scm:git:https://github.com/ming-soft/ms-basic.git</developerConnection>
 		<url>https://github.com/ming-soft/ms-basic</url>
-	  <tag>ms-basic-1.0.0</tag>
+	  <tag>ms-basic-1.0.1</tag>
   </scm>
 	<distributionManagement>
 		<snapshotRepository>
